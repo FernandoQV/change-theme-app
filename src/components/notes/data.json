@@ -1,0 +1,39 @@
+[
+    {
+    "id":1,
+    "name":"facebook",
+    "note":["Page views","Likes"],
+    "image":"/images/icon-facebook.svg",
+    "followers":["87","52"],
+    "up":[true,false],
+    "number":[3,2]
+    },
+    {
+        "id":2,
+        "name":"instagram",
+        "note":["Likes","Profile Views"],
+        "image":"/images/icon-instagram.svg",
+        "followers":["5462","52k"],
+        "up":[true,true],
+        "number":[2257,1375]
+    },
+    {
+    "id":3,
+    "name":"twiter",
+    "note":["Retweets","Likes"],
+    "image":"/images/icon-twitter.svg",
+    "followers":[117,507],
+    "up":[true,true],
+    "number":[303,553]
+    },
+    {
+        "id":4,
+        "name":"youtube",
+        "note":["Likes","Total Views"],
+        "image":"/images/icon-youtube.svg",
+        "followers":[107,1407],
+        "up":[false,false],
+        "number":[19,12]
+    }
+]
+
