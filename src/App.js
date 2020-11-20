@@ -23,6 +23,7 @@ function App() {
       <Header updateDark={updateDark} palette={palette}/>
       <Cards palette={palette}></Cards>
       <Notes palette={palette}></Notes>
+      {/* <ImagePrueba></ImagePrueba> */}
     </>
   );
 }

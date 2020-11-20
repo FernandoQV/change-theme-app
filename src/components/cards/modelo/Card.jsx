@@ -52,10 +52,11 @@ const getBorder=(name)=>{
     console.log(border)
     return border;
 }
+ 
   return (
     <ContainerCard bg={CardBG} borderTop={getBorder(name)}>
       <Container>
-        <Image src={image} />
+        <Image src={process.env.PUBLIC_URL+image} />
         <Subtitle1 color={Text}>{account}</Subtitle1>
       </Container>
       <Container2>
@@ -63,7 +64,7 @@ const getBorder=(name)=>{
         <Subtitle2 color={Text}>FOLLOWERS</Subtitle2>
       </Container2>
       <Container>
-        <Image height='10px' src={validarUp(up)} />
+        <Image height='10px' src={process.env.PUBLIC_URL+validarUp(up)} />
         <Subtitle3 color={validarColor(up)}>{number} Today</Subtitle3>
       </Container>
     </ContainerCard>

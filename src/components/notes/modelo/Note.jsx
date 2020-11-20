@@ -32,12 +32,12 @@ const Note = (props) => {
             <Container key={n.id} bg={CardBG}>
                 <ContainerFlex>
                     <Subtitle1 color={Text}>{n.note}</Subtitle1>
-                    <Image src={image}/>
+                    <Image src={process.env.PUBLIC_URL+image}/>
                 </ContainerFlex>
                 <ContainerFlex>
                     <Title3 color={Text2}>{n.followers}</Title3>
                     <div style={{display:'flex',alignItems:'center'}}>
-                        <Image height='5px' src={validarUp(n.up)}/>
+                        <Image height='5px' src={process.env.PUBLIC_URL+validarUp(n.up)}/>
                         <Subtitle1 color={validarColor(n.up)}>{n.number}%</Subtitle1>
                     </div>
                 </ContainerFlex>
