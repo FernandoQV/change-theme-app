@@ -3,6 +3,7 @@ import Global from "./helpers/GlobalStyles";
 import Header from "./components/Header/Header";
 import getPalette from "./helpers/getPalette";
 import Cards from "./components/cards/Cards";
+import Notes from "./components/notes/Notes";
 
 function App() {
   const [palette, setPalette] = useState(getPalette(true));
@@ -21,6 +22,7 @@ function App() {
       <Global></Global>
       <Header updateDark={updateDark} palette={palette}/>
       <Cards palette={palette}></Cards>
+      <Notes palette={palette}></Notes>
     </>
   );
 }

@@ -10,6 +10,11 @@ font-weight:700;
 font-size:4rem;
 color:${props=>props.color};
 `;
+export const Title3=styled.h2`
+font-weight:700;
+font-size:1.5rem;
+color:${props=>props.color};
+`;
 export const Subtitle1=styled.p`
 font-weight:700;
 font-size:1rem;
