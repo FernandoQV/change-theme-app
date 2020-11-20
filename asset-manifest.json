@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/change-them-app/static/js/main.31ee8148.chunk.js",
-    "main.js.map": "/change-them-app/static/js/main.31ee8148.chunk.js.map",
-    "runtime-main.js": "/change-them-app/static/js/runtime-main.6ceaf4cb.js",
-    "runtime-main.js.map": "/change-them-app/static/js/runtime-main.6ceaf4cb.js.map",
-    "static/js/2.c24910e9.chunk.js": "/change-them-app/static/js/2.c24910e9.chunk.js",
-    "static/js/2.c24910e9.chunk.js.map": "/change-them-app/static/js/2.c24910e9.chunk.js.map",
-    "index.html": "/change-them-app/index.html",
-    "static/js/2.c24910e9.chunk.js.LICENSE.txt": "/change-them-app/static/js/2.c24910e9.chunk.js.LICENSE.txt"
+    "main.js": "/change-theme-app/static/js/main.31ee8148.chunk.js",
+    "main.js.map": "/change-theme-app/static/js/main.31ee8148.chunk.js.map",
+    "runtime-main.js": "/change-theme-app/static/js/runtime-main.8d41be69.js",
+    "runtime-main.js.map": "/change-theme-app/static/js/runtime-main.8d41be69.js.map",
+    "static/js/2.2015ab79.chunk.js": "/change-theme-app/static/js/2.2015ab79.chunk.js",
+    "static/js/2.2015ab79.chunk.js.map": "/change-theme-app/static/js/2.2015ab79.chunk.js.map",
+    "index.html": "/change-theme-app/index.html",
+    "static/js/2.2015ab79.chunk.js.LICENSE.txt": "/change-theme-app/static/js/2.2015ab79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ceaf4cb.js",
-    "static/js/2.c24910e9.chunk.js",
+    "static/js/runtime-main.8d41be69.js",
+    "static/js/2.2015ab79.chunk.js",
     "static/js/main.31ee8148.chunk.js"
   ]
 }
