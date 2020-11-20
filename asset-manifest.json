@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/change-theme-app/static/js/main.31ee8148.chunk.js",
-    "main.js.map": "/change-theme-app/static/js/main.31ee8148.chunk.js.map",
+    "main.js": "/change-theme-app/static/js/main.5ab55d44.chunk.js",
+    "main.js.map": "/change-theme-app/static/js/main.5ab55d44.chunk.js.map",
     "runtime-main.js": "/change-theme-app/static/js/runtime-main.8d41be69.js",
     "runtime-main.js.map": "/change-theme-app/static/js/runtime-main.8d41be69.js.map",
     "static/js/2.2015ab79.chunk.js": "/change-theme-app/static/js/2.2015ab79.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.8d41be69.js",
     "static/js/2.2015ab79.chunk.js",
-    "static/js/main.31ee8148.chunk.js"
+    "static/js/main.5ab55d44.chunk.js"
   ]
 }
